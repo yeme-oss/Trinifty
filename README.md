@@ -122,7 +122,6 @@ Uni Simu is a **university-lecture simulator**. You sit in a 3D auditorium. A pr
 And then, because real learning is active:
 
 - ✋ **You can ask questions** mid-lecture (push-to-talk) and the professor answers with a *new* board, on the spot.
-- ✍️ **You take notes.** At the end of class you snap a picture of your notes and get **feedback on them**.
 - 🧪 **Quizzes** to check you actually understood.
 
 **What makes it special**
