@@ -1,4 +1,4 @@
-﻿# Trinifty - all nifty stuff - all for free
+# Trinifty - all nifty stuff - all for free
 
 <p align="center">
   <img src="assets/banner.jpg" alt="Trinifty: RPGy, Manga Creator and Uni Simu" width="100%">
@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Three open-source creative engines. One idea: AI should hand you the keys, not a subscription.</b><br>
-  <sub>Play infinite worlds Â· Draw whole manga Â· Sit in a lecture that adapts to you</sub>
+  <sub>Play infinite worlds · Draw whole manga · Sit in a lecture that adapts to you</sub>
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@ Together they make a **trifecta** (a *"trifacta"* if you ask me):
 
 | | Project | You type... | You get... |
 |---|---|---|---|
-| ðŸŽ² | **[RPGy](#-rpgy--a-world-that-talks-back)** | *"Rain-soaked occult noir in 1920s Marseille..."* | A living, illustrated RPG with a Party that argues back |
-| ðŸ“– | **[Manga Creator](#-manga-creator--from-one-sentence-to-a-50-page-graphic-novel)** | *"A gnome engineer and her very smart pug..."* | A finished 50-page graphic novel with consistent characters |
-| ðŸŽ“ | **[Uni Simu](#-uni-simu--learn-with-ai-the-hard-way)** | *"Explain how sunlight travels from the Sun to Earth"* | A professor who writes it on the whiteboard, live, in 3D |
+| 🎲 | **[RPGy](#-rpgy--a-world-that-talks-back)** | *"Rain-soaked occult noir in 1920s Marseille..."* | A living, illustrated RPG with a Party that argues back |
+| 📖 | **[Manga Creator](#-manga-creator--from-one-sentence-to-a-50-page-graphic-novel)** | *"A gnome engineer and her very smart pug..."* | A finished 50-page graphic novel with consistent characters |
+| 🎓 | **[Uni Simu](#-uni-simu--learn-with-ai-the-hard-way)** | *"Explain how sunlight travels from the Sun to Earth"* | A professor who writes it on the whiteboard, live, in 3D |
 
 > **Scroll on.** Every section below has real screenshots. Everything you see was generated and rendered by the tools themselves.
 
 ---
 
-## ðŸŽ² RPGy - *a world that talks back*
+## 🎲 RPGy - *a world that talks back*
 
 > *"You are never alone at the table. A living Party remembers, wants, argues, and acts, while the Director keeps the story moving toward you."*
 
@@ -46,17 +46,17 @@ RPGy is a **text-RPG engine with a Game Master brain**. You describe any setting
 
 **What makes it special**
 
-- ðŸŒ **49 authored worlds** ready to play: zombie London, cyber-samurai Tokyo, Mars colonies, wizard academies, Roman frontiers, post-apocalyptic wastelands...
-- ðŸ› ï¸ **World Constructor**: write one *Master Prompt* and the Director drafts every field (genre, tone, stakes, first choice, hero art). Tweak anything before reality is built.
-- ðŸ§‘â€ðŸ¤â€ðŸ§‘ **A living Party**: companions have personalities, relationship scores, and *interject on their own*. You can open a private chat with any of them.
-- âš–ï¸ **Karma-morphing world**: your choices secretly reshape the world. Be ruthless and the black markets open; be merciful and doors unlock.
-- ðŸ§  **Truth lives in code, not in the AI**: HP, inventory, map and quests are tracked by the engine, so the story can't "forget" you're wounded. The AI narrates; the rules stay honest.
-- ðŸ•¸ï¸ **Procedural spider-web map**: new locations unlock as you explore.
-- ðŸ’€ **No Game Over**: fall in battle and you're captured, robbed or rescued, then the story *continues*.
-- ðŸ–¼ï¸ **Every scene illustrated**, photoreal or cartoon, with a portrait for you and each companion.
-- ðŸŽµ Optional AI-voiced characters and generated music.
-- ðŸ’¾ **Save / Load** as a plain `.json` file, or **copy a share link** and send your world to a friend.
-- ðŸŒ **English & French**.
+- 🌍 **49 authored worlds** ready to play: zombie London, cyber-samurai Tokyo, Mars colonies, wizard academies, Roman frontiers, post-apocalyptic wastelands...
+- 🛠️ **World Constructor**: write one *Master Prompt* and the Director drafts every field (genre, tone, stakes, first choice, hero art). Tweak anything before reality is built.
+- 🧑‍🤝‍🧑 **A living Party**: companions have personalities, relationship scores, and *interject on their own*. You can open a private chat with any of them.
+- ⚖️ **Karma-morphing world**: your choices secretly reshape the world. Be ruthless and the black markets open; be merciful and doors unlock.
+- 🧠 **Truth lives in code, not in the AI**: HP, inventory, map and quests are tracked by the engine, so the story can't "forget" you're wounded. The AI narrates; the rules stay honest.
+- 🕸️ **Procedural spider-web map**: new locations unlock as you explore.
+- 💀 **No Game Over**: fall in battle and you're captured, robbed or rescued, then the story *continues*.
+- 🖼️ **Every scene illustrated**, photoreal or cartoon, with a portrait for you and each companion.
+- 🎵 Optional AI-voiced characters and generated music.
+- 💾 **Save / Load** as a plain `.json` file, or **copy a share link** and send your world to a friend.
+- 🌐 **English & French**.
 
 <table>
   <tr>
@@ -68,11 +68,11 @@ RPGy is a **text-RPG engine with a Game Master brain**. You describe any setting
 <p align="center"><img src="assets/rpgy-mars.jpg" alt="A lone astronaut under a blood-red Martian sun" width="80%"><br><sub>One of the 49 worlds: a lone astronaut, a red sun, a dome that hides secrets.</sub></p>
 
 **Under the hood:** vanilla JavaScript + Tailwind front end, serverless functions, Google Gemini for story and images. Deploys to Vercel in minutes.
-ðŸ‘‰ **Repo:** `RPGy` Â· **Play:** [rpgy.app](https://www.rpgy.app/)
+👉 **Repo:** `RPGy` · **Play:** [rpgy.app](https://www.rpgy.app/)
 
 ---
 
-## ðŸ“– Manga Creator - *from one sentence to a 50-page graphic novel*
+## 📖 Manga Creator - *from one sentence to a 50-page graphic novel*
 
 > *"Death is a courtesy the living invented to excuse forgetting. I am merely what remains when the excuse is gone."*
 > , Malacor the Sorrowful, from **Grimoire**, a 50-page dark-fantasy novella made entirely with this tool.
@@ -83,14 +83,14 @@ Manga Creator is a **studio**, not a prompt box. It manages whole projects: stor
 
 **What makes it special**
 
-- ðŸ“š **Multi-project workspace**: each story gets its own folder with `references/` and `pages/`.
-- ðŸ§¬ **Character reference sheets**: generated once, then automatically fed back in whenever a character is named in a page prompt. That's how faces stay consistent.
-- ðŸ“œ **Story bible**: write (or generate) the full script, split into movements, with tone, key visuals and dialogue.
-- ðŸ–‹ï¸ **Real page generation**: panels, speech bubbles, SFX lettering, title banners.
-- ðŸ“ **Aspect ratios** 1:1 Â· 3:4 Â· 4:3 Â· 9:16 Â· 16:9, enforced by a smart center-crop so every page is exactly the format you asked for.
-- ðŸŒ **Text in English or French**, with correct accents.
-- ðŸ“– **Built-in reader** with zoom, so you can *read* your book like a book.
-- ðŸ”‘ Bring your own Gemini key. Your pages are saved to your disk, as plain JPEGs.
+- 📚 **Multi-project workspace**: each story gets its own folder with `references/` and `pages/`.
+- 🧬 **Character reference sheets**: generated once, then automatically fed back in whenever a character is named in a page prompt. That's how faces stay consistent.
+- 📜 **Story bible**: write (or generate) the full script, split into movements, with tone, key visuals and dialogue.
+- 🖋️ **Real page generation**: panels, speech bubbles, SFX lettering, title banners.
+- 📐 **Aspect ratios** 1:1 · 3:4 · 4:3 · 9:16 · 16:9, enforced by a smart center-crop so every page is exactly the format you asked for.
+- 🌐 **Text in English or French**, with correct accents.
+- 📖 **Built-in reader** with zoom, so you can *read* your book like a book.
+- 🔑 Bring your own Gemini key. Your pages are saved to your disk, as plain JPEGs.
 
 ### Four books, made with it
 
@@ -107,11 +107,11 @@ Manga Creator is a **studio**, not a prompt box. It manages whole projects: stor
 ### The twist behind *Grimoire*
 Most tragedies begin with life and descend into decay. **Grimoire runs backwards**: it opens on a terrifying skeletal necromancer in a drowned abyss, and with every chapter strips away a layer, until page 50 reveals that the "monster" is the world's most solitary archivist, who gave up peace so that forgotten people would never be erased. 50 pages. 5 movements. Zero shortcuts.
 
-ðŸ‘‰ **Repo:** `Manga-Creator`
+👉 **Repo:** `Manga-Creator`
 
 ---
 
-## ðŸŽ“ Uni Simu - *learn with AI the hard way*
+## 🎓 Uni Simu - *learn with AI the hard way*
 
 > *"There is no shortcut. You have to pay attention, and take notes."*
 
@@ -121,21 +121,21 @@ Uni Simu is a **university-lecture simulator**. You sit in a 3D auditorium. A pr
 
 And then, because real learning is active:
 
-- âœ‹ **You can ask questions** mid-lecture (push-to-talk) and the professor answers with a *new* board, on the spot.
-- âœï¸ **You take notes.** At the end of class you snap a picture of your notes and get **feedback on them**.
-- ðŸ§ª **Quizzes** to check you actually understood.
+- ✋ **You can ask questions** mid-lecture (push-to-talk) and the professor answers with a *new* board, on the spot.
+- ✍️ **You take notes.** At the end of class you snap a picture of your notes and get **feedback on them**.
+- 🧪 **Quizzes** to check you actually understood.
 
 **What makes it special**
 
-- ðŸ–ï¸ **Live whiteboard**: diagrams, arrows, curves from functions, boxes, and **real typeset math (MathJax)**, drawn stroke by stroke in handwriting.
-- ðŸ–¼ï¸ **Slideshow mode**: generated slide images, speech synced to each slide.
-- ðŸ—‚ï¸ **Cursus**: ask for an entire *course* and it plans the parts, teaches them in order and tracks your progress.
-- ðŸ§‘â€ðŸ« **Male or female professor**, fully rigged and animated in 3D (Three.js), with **natural AI voices** and subtitles.
-- ðŸŽšï¸ **Difficulty & duration dials**: 30-second primer or full session. Level from beginner to Master.
-- ðŸ§¾ **Live cost meter**: you always see exactly what each lesson cost. No surprises.
-- ðŸ“š **Coursework archive**: everything you've studied is saved; export / import it.
-- ðŸŒ **English & French** interface and teaching.
-- ðŸ›¡ï¸ Optional admin panel, daily quotas and membership keys, **if you want to host it for others**. Off by default.
+- 🖍️ **Live whiteboard**: diagrams, arrows, curves from functions, boxes, and **real typeset math (MathJax)**, drawn stroke by stroke in handwriting.
+- 🖼️ **Slideshow mode**: generated slide images, speech synced to each slide.
+- 🗂️ **Cursus**: ask for an entire *course* and it plans the parts, teaches them in order and tracks your progress.
+- 🧑‍🏫 **Male or female professor**, fully rigged and animated in 3D (Three.js), with **natural AI voices** and subtitles.
+- 🎚️ **Difficulty & duration dials**: 30-second primer or full session. Level from beginner to Master.
+- 🧾 **Live cost meter**: you always see exactly what each lesson cost. No surprises.
+- 📚 **Coursework archive**: everything you've studied is saved; export / import it.
+- 🌐 **English & French** interface and teaching.
+- 🛡️ Optional admin panel, daily quotas and membership keys, **if you want to host it for others**. Off by default.
 
 <table>
   <tr>
@@ -145,19 +145,19 @@ And then, because real learning is active:
 </table>
 
 **Under the hood:** Node + Express, Vite, Three.js, MathJax, Google Gemini (text, images, speech). One command to run: `npm run dev`.
-ðŸ‘‰ **Repo:** `Uni-Simu`
+👉 **Repo:** `Uni-Simu`
 
 ---
 
-## âš™ï¸ How it works (it's the same recipe for all three)
+## ⚙️ How it works (it's the same recipe for all three)
 
 ```
    YOU                    THE ENGINE                      THE AI
-  â”€â”€â”€â”€â”€â”€                 â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€                    â”€â”€â”€â”€â”€â”€â”€â”€
-  one prompt  â”€â”€â”€â”€â”€â”€â”€â–º   validates, stores state  â”€â”€â”€â–º   writes & draws
+  ──────                 ────────────                    ────────
+  one prompt  ───────►   validates, stores state  ───►   writes & draws
                          (HP, pages, notes, cost)         (strict JSON / images)
-        â–²                       â”‚                              â”‚
-        â””â”€â”€â”€â”€â”€â”€ rendered, illustrated result â—„â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+        ▲                       │                              │
+        └────── rendered, illustrated result ◄─────────────────┘
 ```
 
 1. **The AI is the imagination. The code is the truth.** The model returns *structured data*; the app validates it, then renders it. That is why worlds stay consistent, pages stay in character and whiteboards never glitch.
@@ -173,7 +173,7 @@ npm install && npm run dev      # Manga Creator: python server.py
 
 ---
 
-## ðŸ’š Why is it free?
+## 💚 Why is it free?
 
 Because the best tools should be **handed over**, not rented out.
 
@@ -185,35 +185,35 @@ I made these because I wanted to play inside stories, tell stories, and learn wi
 
 ---
 
-## â˜• Support Trinifty
+## ☕ Support Trinifty
 
 If one of these made your evening, your comic, or your exam, consider becoming a patron. Patrons make it possible to:
 
-- ðŸ› ï¸ keep building (new worlds, new features, new engines),
-- ðŸŒ keep the public demos running,
-- ðŸ—³ï¸ **vote on what I build next.**
+- 🛠️ keep building (new worlds, new features, new engines),
+- 🌐 keep the public demos running,
+- 🗳️ **vote on what I build next.**
 
 <p align="center">
   <a href="https://www.patreon.com/c/PierreIgorZarebski"><img alt="Become a patron" src="https://img.shields.io/badge/%E2%9D%A4%20Become%20a%20Patron-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="48"></a>
 </p>
 
-Not able to chip in? **That's completely fine.** A â­ on the repos, a share, or a screenshot of what you made is a huge help.
+Not able to chip in? **That's completely fine.** A ⭐ on the repos, a share, or a screenshot of what you made is a huge help.
 
 ---
 
-## ðŸ—ºï¸ The Trinifty family
+## 🗺️ The Trinifty family
 
 | Repo | What it is | Status |
 |---|---|---|
-| **Trinifty** (you are here) | The intro to everything | âœ… |
-| **RPGy** | AI game-master RPG engine | ðŸš€ live at [rpgy.app](https://www.rpgy.app/) |
-| **Manga Creator** | AI graphic-novel studio | ðŸš€ releasing |
-| **Uni Simu** | AI lecture simulator | ðŸš€ releasing |
+| **Trinifty** (you are here) | The intro to everything | ✅ |
+| **RPGy** | AI game-master RPG engine | 🚀 live at [rpgy.app](https://www.rpgy.app/) |
+| **Manga Creator** | AI graphic-novel studio | 🚀 releasing |
+| **Uni Simu** | AI lecture simulator | 🚀 releasing |
 
-## ðŸ¤ Contribute
+## 🤝 Contribute
 
 Found a bug? Want a new world, a new language or a new teacher? Open an issue or a pull request. Everything here is meant to be remixed.
 
 ---
 
-<p align="center"><i>Trinifty: three nifty things, zero dollars. Go make something. ðŸŽ² ðŸ“– ðŸŽ“</i></p>
+<p align="center"><i>Trinifty: three nifty things, zero dollars. Go make something. 🎲 📖 🎓</i></p>
