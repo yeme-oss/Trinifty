@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.patreon.com/c/PierreIgorZarebski"><img alt="Support on Patreon" src="https://img.shields.io/badge/Support%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+  <a href="https://www.patreon.com/c/PierreIgorZarebski"><img alt="Join free on Patreon" src="https://img.shields.io/badge/Join%20free%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
   <img alt="Price" src="https://img.shields.io/badge/price-%240%20forever-2ea043?style=for-the-badge">
   <img alt="Open source" src="https://img.shields.io/badge/open%20source-FOSS-blue?style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/EN%20%2B%20FR-supported-8957e5?style=for-the-badge">
@@ -178,23 +178,23 @@ I made these because I wanted to play inside stories, tell stories, and learn wi
 
 **What does it cost *you*?** Nothing to me. Only the pennies your own AI key uses.
 
-**So how does this keep going?** By people like you.
+**What does it cost *me*?** My time, and I'm happy to give it. Enjoy.
 
 ---
 
-## ☕ Support Trinifty
+## 🪙 Keep your coins
 
-If one of these made your evening, your comic, or your exam, consider becoming a patron. Patrons make it possible to:
+**Keep your hard-earned coins. This is free stuff central. Enjoy.** 🎉
 
-- 🛠️ keep building (new worlds, new features, new engines),
-- 🌐 keep the public demos running,
-- 🗳️ **vote on what I build next.**
+No paywall, no trial, no "pro" tier, and nobody is asking you to pay. Everything here is yours.
+
+My Patreon is **free to join** too. It's simply where I post new releases, behind-the-scenes and what I'm building next, and where you can tell me what you'd like to see.
 
 <p align="center">
-  <a href="https://www.patreon.com/c/PierreIgorZarebski"><img alt="Become a patron" src="https://img.shields.io/badge/%E2%9D%A4%20Become%20a%20Patron-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="48"></a>
+  <a href="https://www.patreon.com/c/PierreIgorZarebski"><img alt="Join free on Patreon" src="https://img.shields.io/badge/Join%20free%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="48"></a>
 </p>
 
-Not able to chip in? **That's completely fine.** A ⭐ on the repos, a share, or a screenshot of what you made is a huge help.
+If you want to say thanks, a ⭐ on the repos, a share, or a screenshot of what you made is more than enough.
 
 ---
 
