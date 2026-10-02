@@ -68,7 +68,7 @@ RPGy is a **text-RPG engine with a Game Master brain**. You describe any setting
 <p align="center"><img src="assets/rpgy-mars.jpg" alt="A lone astronaut under a blood-red Martian sun" width="80%"><br><sub>One of the 49 worlds: a lone astronaut, a red sun, a dome that hides secrets.</sub></p>
 
 **Under the hood:** vanilla JavaScript + Tailwind front end, serverless functions, Google Gemini for story and images. Deploys to Vercel in minutes.
-👉 **Repo:** `RPGy` · **Play:** [rpgy.app](https://www.rpgy.app/)
+👉 **Repo:** [RPGy](https://github.com/yeme-oss/RPGy) · **Play:** [rpgy.app](https://www.rpgy.app/)
 
 ---
 
@@ -107,7 +107,7 @@ Manga Creator is a **studio**, not a prompt box. It manages whole projects: stor
 ### The twist behind *Grimoire*
 Most tragedies begin with life and descend into decay. **Grimoire runs backwards**: it opens on a terrifying skeletal necromancer in a drowned abyss, and with every chapter strips away a layer, until page 50 reveals that the "monster" is the world's most solitary archivist, who gave up peace so that forgotten people would never be erased. 50 pages. 5 movements. Zero shortcuts.
 
-👉 **Repo:** `Manga-Creator`
+👉 **Repo:** [Manga-Creator](https://github.com/yeme-oss/Manga-Creator)
 
 ---
 
@@ -145,7 +145,7 @@ And then, because real learning is active:
 </table>
 
 **Under the hood:** Node + Express, Vite, Three.js, MathJax, Google Gemini (text, images, speech). One command to run: `npm run dev`.
-👉 **Repo:** `Uni-Simu`
+👉 **Repo:** [Uni-Simu](https://github.com/yeme-oss/Uni-Simu)
 
 ---
 
@@ -206,9 +206,9 @@ Not able to chip in? **That's completely fine.** A ⭐ on the repos, a share, or
 | Repo | What it is | Status |
 |---|---|---|
 | **Trinifty** (you are here) | The intro to everything | ✅ |
-| **RPGy** | AI game-master RPG engine | 🚀 live at [rpgy.app](https://www.rpgy.app/) |
-| **Manga Creator** | AI graphic-novel studio | 🚀 releasing |
-| **Uni Simu** | AI lecture simulator | 🚀 releasing |
+| **[RPGy](https://github.com/yeme-oss/RPGy)** | AI game-master RPG engine | 🚀 live at [rpgy.app](https://www.rpgy.app/) |
+| **[Manga Creator](https://github.com/yeme-oss/Manga-Creator)** | AI graphic-novel studio | 🚀 releasing |
+| **[Uni Simu](https://github.com/yeme-oss/Uni-Simu)** | AI lecture simulator | 🚀 releasing |
 
 ## 🤝 Contribute
 
