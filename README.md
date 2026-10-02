@@ -113,8 +113,6 @@ Most tragedies begin with life and descend into decay. **Grimoire runs backwards
 
 ## 🎓 Uni Simu - *learn with AI the hard way*
 
-> *"There is no shortcut. You have to pay attention, and take notes."*
-
 <p align="center"><img src="assets/uni-dna.jpg" alt="A 3D professor presenting The Double Helix at a lectern" width="92%"></p>
 
 Uni Simu is a **university-lecture simulator**. You sit in a 3D auditorium. A professor walks to the board, **writes and draws by hand**, flips through slides, and *talks*, on **any subject, at any level**, from curious teenager to Master's degree.
